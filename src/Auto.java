@@ -1,3 +1,4 @@
+// com/
 public class Auto {
     int year;
     int price;
